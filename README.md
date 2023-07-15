@@ -1,5 +1,5 @@
 # Date_Time using shared preference
-In this i impelement Date and Time picker coonected with one button.
+In this i impelement Date and Time picker connected with one button.
 After this i use shared preference to store date and time.
 
 ![D1](https://github.com/ADMusab12/Date_Time/assets/135734466/fea4c752-b58b-4959-af7f-48287d38754e)
